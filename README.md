@@ -5,7 +5,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- i am high School students who is learning the beautiful world of coding
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
