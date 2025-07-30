@@ -73,7 +73,7 @@
 
 - 🔍 **Sixth Sense** — AI-powered wearable for the visually impaired (Top 100 Google Solution Challenge)  
 - 🚌 **DTC Route Optimization System** — GIS & AI-based dynamic bus scheduling (Live Deployment)  
-- 📦 **PawLab** — AI + IoT startup project with smart sensor integration  
+- 📦 **Exovance** — AI + IoT startup project with smart sensor integration  
 - 🌐 **Personal Portfolio** — Built with Next.js, Three.js, and interactive GLSL animations  
 
 ---
