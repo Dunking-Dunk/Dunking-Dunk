@@ -11,10 +11,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Building+Tomorrow's+Tech+Today;💡+Turning+Ideas+Into+Reality;🌟+Leading+Innovation+%26+Growth" alt="Typing SVG" />
   
   <br><br>
-  
-  <!-- Profile Stats Cards -->
-  <img src="https://github-profile-trophy.vercel.app/?username=hursunss&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
-  
 </div>
 
 ---
