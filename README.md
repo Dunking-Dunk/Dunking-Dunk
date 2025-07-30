@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png" width="100%" alt="Banner">
-</p>
-
 <h2 align="center">👋 Hey there! I'm <span style="color:#0a66c2;">Hursun S S</span> </h2>
 <h4 align="center">🚀 Full-Stack Developer | AI/ML Enthusiast | Tech Community Leader</h4>
 
