@@ -12,6 +12,8 @@
   
   <br><br>
   
+  <!-- Profile Stats Cards -->
+  <img src="https://github-profile-trophy.vercel.app/?username=hursunss&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
   
 </div>
 
@@ -42,10 +44,12 @@
 - **Team Leader of "Unfazed"** 
 - Built multimodal coal transport tracker for **Ministry of Coal**
 - **Government Recognition** for innovative AI solution
+- **🎥 [Watch Winning Moment](https://www.youtube.com/watch?v=9SXmhCaXkzI)** 
 
 ### 🌍 **Google Developer Solution Challenge 2024 - TOP 100 GLOBALLY**
 - Developed **AI-powered assistive technology** for visually impaired
 - **Global Recognition** among thousands of participants worldwide
+- **🎥 [Watch Project Demo](https://www.youtube.com/results?search_query=sixth+sense+google+developer+challenge)**
 
 ### 🏅 **Best Freshers Award - Anna University (2022)**
 - Awarded for excellence in **Web Design** and **Innovation Leadership**
@@ -99,6 +103,7 @@
 - Revolutionary wearable for visually impaired users
 - Computer Vision + Natural Language Processing
 - **Impact**: Accessibility technology for millions
+- **🎥 [Project Demo](https://www.youtube.com/results?search_query=sixth+sense+google+developer+challenge)**
 
 ### 🚌 **DTC Route Optimization** - *Smart City Solution*
 **Live Deployment** | **GIS + AI**
@@ -107,9 +112,10 @@
 - **Impact**: Reduced commute time by 30%
 
 ### 📦 **Exovance** - *AI + IoT Startup*
-**Founding Project** | **Full-Stack Development**
+**My Tech Company** | **Full-Stack Development**
 - Smart sensor integration platform
 - End-to-end IoT solutions for enterprises
+- **🌐 [Visit Company Site](https://www.exovance.in/)**
 - **Status**: Growing client base
 
 ### 🌐 **Interactive Portfolio** - *Technical Showcase*
@@ -127,14 +133,12 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dunking-Dunk
-&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hursunss&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hursunss&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dunking-Dunk
-&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hursunss&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" />
 </div>
 
 ---
@@ -163,11 +167,17 @@
   <a href="https://www.hursunss.com/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-hursunss.com-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000"/>
   </a>
+  <a href="https://www.exovance.in/">
+    <img src="https://img.shields.io/badge/🏢_Company-Exovance-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000"/>
+  </a>
   <a href="https://www.linkedin.com/in/hursun-ss-377659233/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
   </a>
   <a href="mailto:hursunss@gmail.com">
     <img src="https://img.shields.io/badge/Email-hursunss@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=9SXmhCaXkzI">
+    <img src="https://img.shields.io/badge/🏆_SIH_Winner-Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000"/>
   </a>
 </p>
 
