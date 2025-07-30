@@ -1,56 +1,29 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hursun S S</title>
-</head>
-<body>
-    <h2> Hey there! I'm Hursun S S.</h2>
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png" alt="Header Banner">
 
-    <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h2> Hey there! I'm Hursun S S.</h2>
+<p>
+  <a href="https://www.hursunss.com/"><img alt="Website" src="https://img.shields.io/badge/Website-hursunss.com-blue?style=flat-square&logo=google-chrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/hursun-ss-377659233/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-hursun--ss-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:hursunss@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hursunss@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
-    - 🤔 &nbsp; I am a student at Rajalakshmi Engineering College, exploring new technologies and developing software solutions. I am a passionate learner with a strong interest in Artificial Intelligence and Machine Learning. I was the leader of Team Unfazed, which won the Smart India Hackathon 2023. I am also the Chennai Chapter Lead of the Devs Technical Society.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-    <h3> 🛠 &nbsp;Tech Stack</h3>
+[cite_start]I'm a Full-Stack Developer and a B.Tech student in Artificial Intelligence & Machine Learning at Rajalakshmi Engineering College, graduating in 2026. [cite_start]I am passionate about building full-stack web and mobile applications and have a deep curiosity for AI and IoT, which I integrate into my projects to create smarter solutions. [cite_start]Currently, I serve as the President of the Devs Club, the largest tech club at my college, where I lead a community of over 2500 students by organizing workshops, hackathons, and project expos.
 
-    - 💻 &nbsp;
-      ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-      ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-    - 🌐 &nbsp;
-      ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-      ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-      ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-      ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-      ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-      ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-      ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
-    - 🛢 &nbsp;
-      ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-      ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-    - ⚙️ &nbsp;
-      ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-      ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-      ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-    - 🔧 &nbsp;
-      ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-      ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-      ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-    - 🤖 &nbsp;
-        ![AI](https://img.shields.io/badge/-AI-333333?style=flat&logo=tensorflow)
-        ![ML](https://img.shields.io/badge/-ML-333333?style=flat&logo=scikit-learn)
-    - 🖥 &nbsp;
-      ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-      ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-      ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+<h3> 🏆 &nbsp;Achievements </h3>
 
-    <br/>
+-   [cite_start]**SIH 2023 Winner** [cite: 44][cite_start]: Our team, Unfazed, won the Smart India Hackathon 2023 by developing a multi-modal coal transport tracker for the Ministry of Coal.
+-   [cite_start]**Google Developer Solution Challenge 2024 - Top 100** [cite: 40][cite_start]: Our project, an AI assistive technology for visually impaired individuals, was shortlisted in the top 100 globally.
+-   [cite_start]**Best Freshers Award** [cite: 49][cite_start]: Awarded for Web Designing by Anna University in 2022.
 
-    <h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-    <p align="center">
-    <a href="https://www.instagram.com/__hursun_ss__/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/hursun__-blue?style=flat-square&logo=instagram"></a>
-
-    </p>
-</body>
-</html>
+-   **Languages & Frameworks**
+    ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express) ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django) ![Three.js](https://img.shields.io/badge/-Three.js-333333?style=flat&logo=three.js&logoColor=white) ![GLSL](https://img.shields.io/badge/-GLSL-333333?style=flat&logo=opengl)
+-   **Databases**
+    ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+-   **AI & IoT**
+    ![AI](https://img.shields.io/badge/-AI-333333?style=flat&logo=tensorflow) ![ML](https://img.shields.io/badge/-ML-333333?style=flat&logo=scikit-learn) ![IoT](https://img.shields.io/badge/-IoT-333333?style=flat&logo=raspberry-pi)
+-   **Tools & Platforms**
+    ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
