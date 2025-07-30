@@ -6,8 +6,6 @@
     <title>Hursun S S</title>
 </head>
 <body>
-    <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png" alt="Aditya Vikram Singh Banner">
-
     <h2> Hey there! I'm Hursun S S.</h2>
 
     <h3> 👨🏻‍💻 &nbsp;About Me </h3>
