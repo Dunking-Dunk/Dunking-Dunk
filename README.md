@@ -187,12 +187,12 @@
   <br><br>
   
   <!-- Contribution Snake -->
-  <img src="https://raw.githubusercontent.com/hursunss/hursunss/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Dunking-Dunk/Dunking-Dunk/output/github-contribution-grid-snake-dark.svg" />
   
   <br><br>
   
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=hursunss&label=Entrepreneurs%20Visited&color=00D4FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Dunking-Dunk&label=Entrepreneurs%20Visited&color=00D4FF&style=for-the-badge" />
   
   <br><br>
   
