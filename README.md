@@ -12,8 +12,6 @@
   
   <br><br>
   
-  <!-- Profile Stats Cards -->
-  <img src="https://github-profile-trophy.vercel.app/?username=hursunss&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
   
 </div>
 
